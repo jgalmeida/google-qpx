@@ -1,0 +1,26 @@
+{
+  "name": "google-qpx-api",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bin/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "object-mapper": "^3.0.0",
+    "request": "^2.69.0",
+    "qs": "^6.1.0",
+    "joi": "^8.0.5",
+    "async": "^2.0.0-rc.2",
+    "lodash": "^4.8.2",
+    "mocha": "^2.4.5",
+    "chai": "^3.5.0",
+    "morgan": "^1.7.0",
+    "boom": "^3.1.2",
+    "country-data": "0.0.24"
+  }
+}
